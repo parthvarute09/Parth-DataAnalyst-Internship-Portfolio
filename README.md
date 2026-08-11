@@ -37,7 +37,7 @@ I'm a B.Tech student in Computer Science & Engineering (Data Science) at D Y Pat
 | 4 | **Data Storytelling & Statistical Validation** | Hypothesis testing (ANOVA), stakeholder presentation deck | [Task-4-Storytelling-Statistical-Validation](https://github.com/parthvarute09/Aplexplanet_Internship_task4) |
 | 5 | **Capstone Integration & Portfolio Finalization** | *This repository* — the master portfolio | — |
 
-
+🌐 **Live Portfolio:** [View My Portfolio Website](https://parthvarute09.github.io/Parth-DataAnalyst-Internship-Portfolio/)
 ---
 
 ## 🔑 Key Results
