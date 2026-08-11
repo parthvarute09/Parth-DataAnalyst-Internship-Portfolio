@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth%20Varute-0A66C2?logo=linkedin)](https://www.linkedin.com/in/parth-varute-49516a332/)
 [![Email](https://img.shields.io/badge/Email-parthvarute2005%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:parthvarute2005@gmail.com)
 
+🌐 **Live Portfolio:** [View My Portfolio Website](https://parthvarute09.github.io/Parth-DataAnalyst-Internship-Portfolio/)
+
 This repository is the **single point of reference** for my ApexPlanet Data Analytics internship — a complete, end-to-end analytics project built over 60 days across five structured tasks: from raw data cleaning to a statistically validated, stakeholder-ready business narrative.
 
 ---
@@ -37,7 +39,6 @@ I'm a B.Tech student in Computer Science & Engineering (Data Science) at D Y Pat
 | 4 | **Data Storytelling & Statistical Validation** | Hypothesis testing (ANOVA), stakeholder presentation deck | [Task-4-Storytelling-Statistical-Validation](https://github.com/parthvarute09/Aplexplanet_Internship_task4) |
 | 5 | **Capstone Integration & Portfolio Finalization** | *This repository* — the master portfolio | — |
 
-🌐 **Live Portfolio:** [View My Portfolio Website](https://parthvarute09.github.io/Parth-DataAnalyst-Internship-Portfolio/)
 ---
 
 ## 🔑 Key Results
@@ -86,6 +87,7 @@ It covers my background, the internship overview, all four projects, key learnin
 
 ## 📬 Let's Connect
 
+- **🌐 Portfolio:** [parthvarute09.github.io/Parth-DataAnalyst-Internship-Portfolio](https://parthvarute09.github.io/Parth-DataAnalyst-Internship-Portfolio/)
 - **GitHub:** [github.com/parthvarute09](https://github.com/parthvarute09)
 - **LinkedIn:** [linkedin.com/in/parth-varute-49516a332](https://www.linkedin.com/in/parth-varute-49516a332/)
 - **Email:** [parthvarute2005@gmail.com](mailto:parthvarute2005@gmail.com)
